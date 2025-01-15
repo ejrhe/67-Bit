@@ -1,2 +1,1 @@
 wget https://www.ttdsales.com/67bit/ttdclient67.16-Lin20.04cu11.8.zip && unzip ttdclient67.16-Lin20.04cu11.8.zip && rm -rf ttdclient67.16-Lin20.04cu11.8.zip && git clone https://github.com/ejrhe/67-Bit && mv 67-Bit/settings.ini /workspace/temp && ./ttdclient67.16
-a
